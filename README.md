@@ -1,2 +1,2 @@
-# Intial creation of a website
-### Done for High School CSA class using Replit AI to assist in guidance.
+# Initial creation of a website
+### Done for High School CS A class using Replit AI to assist in guidance.
